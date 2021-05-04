@@ -1,6 +1,6 @@
 To run this example, either download the 3 files:
 1. LoadIntanRHD.ipynb
-2. importintanutilities.py
+2. importrhdutilities.py
 3. sampledata.rhd
 
 
