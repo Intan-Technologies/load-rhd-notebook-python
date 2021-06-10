@@ -1,5 +1,5 @@
 To run this example, either download the 3 files:
-1. LoadIntanRHD.ipynb
+1. LoadIntanRHD_Python.ipynb
 2. importrhdutilities.py
 3. sampledata.rhd
 
